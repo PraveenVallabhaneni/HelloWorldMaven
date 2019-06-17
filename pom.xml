@@ -20,11 +20,11 @@
          <url>http://52.66.246.49:8081/repositories/maven-release</url>
        </repository>
    
-       <snapshotrepository>
+       <snapshotRepository>
          <id>Snapshots</id>
          <name>Snapshots </name>
          <url>http://52.66.246.49:8081/repositories/maven-snaps</url>
-       </snapshotrepository>
+       </snapshotRepository>
    </distributionManagement>
 
   <dependencies>
