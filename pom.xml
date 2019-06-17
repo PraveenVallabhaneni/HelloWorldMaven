@@ -13,14 +13,6 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  
-<!—-distributionManagement>
-       <repository>
-         <id>internal.repo</id>
-         <name>Internal repo</name>
-         <url>Http://52.66.246.49:8081/repositories/maven-snaps/</url>
-       </repository>
-   </distributionManagement —->
 <distributionManagement>
        <repository>
          <id>Release</id>
